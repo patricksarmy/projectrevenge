@@ -56,4 +56,4 @@
 
 **25)** When prompted, paste in the java path you copied earlier
 
-**18)** In the new window, type in "cmd /k (Y)
+
