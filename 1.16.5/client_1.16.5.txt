@@ -1,1 +1,2 @@
-
+https://launcher.mojang.com/v1/objects/37fd3c903861eeff3bc24b71eed48f828b5269c8/client.jar
+https://launchermeta.mojang.com/v1/packages/53d73bd5ad8ce02c6b3ec809d4720fd6fff03456/1.16.5.json
