@@ -126,7 +126,7 @@ for i in libraries_list:
 print("Creating Logs Directory")
 os.mkdir("{proff}\\Downloads\\ProjRev\\1.16.5\\minecraft\\logs".format(proff=prof))
 
-download_file("{proff}\\Downloads\\ProjRev\\1.16.5\\projectrevenge.py".format(proff=prof),"https://github.com/patricksarmy/project-revenge/raw/main/1.16.5/project_revenge_py.py")
+download_file("{proff}\\Downloads\\ProjRev\\1.16.5\\projectrevenge.py".format(proff=prof),"https://github.com/patricksarmy/projectrevenge/raw/main/1.16.5/project_revenge_py.py")
 
 print("Download Complete. Files are now ready for transfer.")
 print("The easiest way to do this would be over a flash drive [or SD Card], but if you do not have either, Google Drive and Onedrive also work to transfer files.")
